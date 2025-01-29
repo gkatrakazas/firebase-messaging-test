@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/firebase-messaging-test/static/css/main.f855e6bc.css",
-    "main.js": "/firebase-messaging-test/static/js/main.b75911a9.js",
+    "main.js": "/firebase-messaging-test/static/js/main.3ed59ad1.js",
     "static/media/logo.svg": "/firebase-messaging-test/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/firebase-messaging-test/index.html",
     "main.f855e6bc.css.map": "/firebase-messaging-test/static/css/main.f855e6bc.css.map",
-    "main.b75911a9.js.map": "/firebase-messaging-test/static/js/main.b75911a9.js.map"
+    "main.3ed59ad1.js.map": "/firebase-messaging-test/static/js/main.3ed59ad1.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.b75911a9.js"
+    "static/js/main.3ed59ad1.js"
   ]
 }
